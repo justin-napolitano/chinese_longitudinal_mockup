@@ -1,6 +1,6 @@
 # Chinese Longitudinal Mockup
 
-This repository contains a mockup project centered around the Chinese Longitudinal Healthy Longevity Survey (CLHLS) Biomarkers Datasets from 2009, 2012, and 2014 (ICPSR 37226). It includes data files, documentation, and example analyses primarily implemented in Jupyter Notebooks.
+This repository hosts a mockup project built around the Chinese Longitudinal Healthy Longevity Survey (CLHLS) Biomarkers Datasets from 2009, 2012, and 2014 (ICPSR 37226). It provides data files, documentation, and example analyses primarily implemented in Jupyter Notebooks to facilitate exploration of health and longevity predictors in the Chinese elderly population.
 
 ## Features
 
@@ -54,12 +54,8 @@ chinese_longitudinal_mockup/
 
 ## Future Work / Roadmap
 
-- Add more comprehensive Jupyter Notebooks demonstrating advanced statistical and machine learning analyses.
-- Integrate data visualization dashboards for interactive exploration.
-- Automate data preprocessing pipelines for the CLHLS datasets.
-- Expand documentation with detailed methodology and usage examples.
-- Potentially include scripts for data extraction and cleaning from raw sources.
-
----
-
-*Note: This project is a mockup and may require dataset access permissions or additional configuration to fully utilize the data.*
+- Expand example analyses beyond logistic regression.
+- Integrate more comprehensive data visualizations.
+- Automate data ingestion and preprocessing pipelines.
+- Develop additional notebooks demonstrating advanced statistical modeling.
+- Enhance documentation and user guides.
