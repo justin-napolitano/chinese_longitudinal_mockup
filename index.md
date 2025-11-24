@@ -1,12 +1,27 @@
 ---
-slug: "github-chinese-longitudinal-mockup"
-title: "chinese_longitudinal_mockup"
-repo: "justin-napolitano/chinese_longitudinal_mockup"
-githubUrl: "https://github.com/justin-napolitano/chinese_longitudinal_mockup"
-generatedAt: "2025-11-23T08:41:56.857985Z"
-source: "github-auto"
+slug: github-chinese-longitudinal-mockup
+title: Chinese Longitudinal Healthy Longevity Survey Biomarker Data Mockup
+repo: justin-napolitano/chinese_longitudinal_mockup
+githubUrl: https://github.com/justin-napolitano/chinese_longitudinal_mockup
+generatedAt: '2025-11-23T08:41:56.857985Z'
+source: github-auto
+summary: >-
+  Structured mockup for analyzing CLHLS biomarker datasets with data organization, logistic
+  regression modeling, and Python data science tools.
+tags:
+  - longitudinal-data
+  - biomarkers
+  - health-aging
+  - logistic-regression
+  - python
+  - data-analysis
+seoPrimaryKeyword: CLHLS biomarker datasets
+seoSecondaryKeywords:
+  - longitudinal health data
+  - logistic regression modeling
+  - python data science
+seoOptimized: true
 ---
-
 
 # Chinese Longitudinal Mockup: A Reference Overview
 
