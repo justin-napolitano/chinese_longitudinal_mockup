@@ -21,6 +21,12 @@ seoSecondaryKeywords:
   - logistic regression modeling
   - python data science
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post centers on data analysis, statistical modeling (logistic regression), and Python data
+  science tools applied to longitudinal biomarker datasets. It aligns well with the 'Datascience'
+  family which includes data analysis projects, notebooks, and scientific data workflows.
 ---
 
 # Chinese Longitudinal Mockup: A Reference Overview
@@ -62,3 +68,4 @@ Handling and analyzing longitudinal biomarker data requires careful data managem
 ## Summary
 
 This mockup project provides a practical foundation for working with the CLHLS biomarker datasets. It is intended as a technical reference for developers and researchers returning to this work, emphasizing data handling, modeling, and reproducibility without extraneous commentary or motivational language.
+
