@@ -1,21 +1,31 @@
 ---
 slug: github-chinese-longitudinal-mockup
 id: github-chinese-longitudinal-mockup
-title: Chinese Longitudinal Mockup
+title: Chinese Longitudinal Healthy Longevity Survey Mockup
 repo: justin-napolitano/chinese_longitudinal_mockup
 githubUrl: https://github.com/justin-napolitano/chinese_longitudinal_mockup
 generatedAt: '2025-11-24T21:34:10.174Z'
 source: github-auto
 summary: >-
-  This repository hosts a mockup project built around the Chinese Longitudinal
-  Healthy Longevity Survey (CLHLS) Biomarkers Datasets from 2009, 2012, and 2014
-  (ICPSR 37226). It provides data files, documentation, and example analyses
-  primarily implemented in Jupyter Notebooks to facilitate exploration of health
-  and longevity predictors in the Chinese elderly population.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a mockup project using the Chinese Longitudinal Healthy Longevity
+  Survey datasets with analyses in Jupyter Notebooks.
+tags:
+  - jupyter notebook
+  - python
+  - data analysis
+  - logistic regression
+  - pandas
+  - numpy
+  - scikit-learn
+  - google bigquery
+seoPrimaryKeyword: chinese longitudinal healthy longevity survey mockup
+seoSecondaryKeywords:
+  - biomarker datasets
+  - health predictors analysis
+  - data visualization
+  - statistical modeling
+  - Jupyter Notebook examples
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
