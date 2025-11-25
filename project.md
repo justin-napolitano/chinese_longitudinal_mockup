@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/chinese_longitudinal_mockup
 generatedAt: '2025-11-24T21:34:10.174Z'
 source: github-auto
 summary: >-
-  Explore the Chinese Longitudinal Healthy Longevity Survey datasets with
-  example analyses and logistic regression modeling in Python.
+  Explore the Chinese Longitudinal Healthy Longevity Survey datasets with example analyses and
+  logistic regression modeling in Python.
 tags:
   - jupyter notebook
   - python
@@ -26,8 +26,8 @@ seoSecondaryKeywords:
   - longitudinal study analysis
   - jupyter notebook examples
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -95,4 +95,5 @@ chinese_longitudinal_mockup/
 - Automate data ingestion and preprocessing pipelines.
 - Develop additional notebooks demonstrating advanced statistical modeling.
 - Enhance documentation and user guides.
+
 
