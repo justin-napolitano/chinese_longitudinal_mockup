@@ -1,13 +1,13 @@
 ---
 slug: github-chinese-longitudinal-mockup
-title: Chinese Longitudinal Healthy Longevity Survey Biomarker Data Mockup
+title: Chinese Longitudinal Mockup for Health Data Analysis
 repo: justin-napolitano/chinese_longitudinal_mockup
 githubUrl: https://github.com/justin-napolitano/chinese_longitudinal_mockup
 generatedAt: '2025-11-23T08:41:56.857985Z'
 source: github-auto
 summary: >-
-  Structured mockup for analyzing CLHLS biomarker datasets with data organization, logistic
-  regression modeling, and Python data science tools.
+  Explore a structured mockup for analyzing CLHLS biomarker datasets related to
+  aging and health outcomes in the Chinese elderly population.
 tags:
   - longitudinal-data
   - biomarkers
@@ -15,18 +15,31 @@ tags:
   - logistic-regression
   - python
   - data-analysis
-seoPrimaryKeyword: CLHLS biomarker datasets
+  - CLHLS
+  - longitudinal data
+  - logistic regression
+  - Python
+  - data analysis
+  - pandas
+  - scikit-learn
+seoPrimaryKeyword: chinese longitudinal mockup
 seoSecondaryKeywords:
   - longitudinal health data
-  - logistic regression modeling
-  - python data science
+  - aging population analysis
+  - biomarker datasets
+  - data preprocessing
+  - reproducible research
+  - health outcome modeling
 seoOptimized: true
 topicFamily: datascience
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post centers on data analysis, statistical modeling (logistic regression), and Python data
-  science tools applied to longitudinal biomarker datasets. It aligns well with the 'Datascience'
-  family which includes data analysis projects, notebooks, and scientific data workflows.
+  The post centers on data analysis, statistical modeling (logistic regression),
+  and Python data science tools applied to longitudinal biomarker datasets. It
+  aligns well with the 'Datascience' family which includes data analysis
+  projects, notebooks, and scientific data workflows.
+kind: project
+id: github-chinese-longitudinal-mockup
 ---
 
 # Chinese Longitudinal Mockup: A Reference Overview
